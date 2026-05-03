@@ -1,4 +1,4 @@
 # projest2 
-Creat by Rakesh mandal
+Creat by Rakesh mandal.
 # git and github
-local to github
+local to github.
